@@ -1,0 +1,123 @@
+body
+
+{
+  background-color: gray;
+  background-image: url(curves_gray_minimalistic_wallpaper-28477.jpg);
+  font-family:"helvetica
+}
+#contenido
+{
+  width: 960e;
+  margin:auto; 
+  text-align: center;
+}
+h1
+{ 
+  
+}
+h2{
+  color: #FEEE00;
+  font-size: 30px; 
+  text-decoration-style: #ebe1e1 solid;
+}
+nav ul li
+{
+    background-color: gray;
+    display:inline-block;
+    margin-right: 20px;
+    color: #FFFF00;
+    cursor: pointer;
+    font-size: 25px
+}
+#textopr1
+{
+   width: 600e;
+   height: 300e; 
+   background-color:#ff8000; 
+   color: #0d0d0d;
+   margin: 0 auto;
+   border-radius:20px; 
+   box-shadow: 0px 0px 20px rgba(0 0 0 0.5);
+   padding-right: 30px;
+   padding-left: 30px;
+   padding-bottom: 10px;
+   padding-top: 0px;
+   margin-left: 0px;
+   margin-right: 100px; 
+   text-align:justify;
+}
+#textopr2
+{
+   width: 600e;
+   height: 300e; 
+   background-color:#ff8000; 
+   color: #0d0d0d;
+   margin: 0 auto;
+   border-radius:20px; 
+   box-shadow: 0px 0px 20px rgba(0 0 0 0.5);
+   padding-right: 30px;
+   padding-left: 30px;
+   padding-bottom: 10px;
+   padding-top: 0px;
+   margin-left: 100px;
+   margin-right: 0px;
+   text-align:justify;
+}
+#textopr3
+{
+   width: 600e;
+   height: 400e; 
+   background-color:#ff8000; 
+   color:  #0d0d0d;
+   margin: 26px;
+   border-radius:20px; 
+   box-shadow: 0px 0px 20px rgba(0 0 0 0.5);
+   padding-right: 30px;
+   padding-left: 30px;
+   padding-bottom: 10px;
+   padding-top: 0px;
+   margin-left: 0px;
+   margin-right: 100px; 
+   text-align:justify;
+}
+#textopr4
+{
+   width: 600e;
+   height: 400e; 
+   background-color:#ff8000; 
+   color: #0d0d0d;
+   margin: 0 auto;
+   border-radius:20px; 
+   box-shadow: 0px 0px 20px rgba(0 0 0 0.5);
+   padding-right: 30px;
+   padding-left: 30px;
+   padding-bottom: 10px;
+   margin-left: 100px;
+   margin-right: 0px;
+   text-align:justify;
+}
+#textopr5
+{
+   width:900e;
+   height: 300e; 
+   background-color:none; 
+   color: #fcf8f8;
+   margin: 250px;
+   border-radius:0.5px; 
+   box-shadow: 0px 0px 20px rgba(0 0 0 0.5);
+   margin-left: 0px;
+   margin-right: 0px; 
+   text-align:center;
+}
+a
+{
+    color: rgb(250, 1, 1);
+    font-weight: bold
+}
+ footer
+{
+        background: #303738;
+        color:;
+         text-align:center;
+        padding:1em;
+}
